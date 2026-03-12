@@ -1,12 +1,12 @@
 
 ### Hey there!
  
-I'm [**Axmadillo**](https://www.linkedin.com/in/thisisaliyev), a frontend developer based in Uzbekistan, Andijan.
+I'm [**Axmadillo**](https://www.linkedin.com/in/thisisaliyev), a fullstack developer based in Uzbekistan, Andijan.
  
-I build things with Vue and Nuxt — mostly web apps that feel clean and work well.
+I design and build full-stack web apps — from pixel-perfect UIs to solid backends.
  
 If I get an idea, I open a new repo. Simple as that.
  
-My main tech stack is **Vue 3**, **Nuxt**, **TypeScript**, and **JavaScript**. I'm always looking for ways to write code that's easy to maintain and even easier to use.
+My frontend stack is **Vue 3**, **Nuxt**, and **TypeScript**. On the backend I work with **Node.js**, **Express**, and **NestJS**. I like when both sides of the app feel clean and intentional.
  
 I've got a few pinned projects — check them out if you're curious what I've been up to.
