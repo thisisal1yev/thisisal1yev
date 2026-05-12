@@ -1,10 +1,21 @@
 
-### Hey there!
+# Hey, I'm Axmadillo 👋
  
-I'm [**Axmadillo**](https://www.linkedin.com/in/thisisaliyev), a fullstack developer based in Uzbekistan, Andijan.
+I'm a fullstack developer from Uzbekistan. I build web apps end-to-end — clean interfaces on the front, solid APIs on the back. I started writing code at 16 after attending a local tech conference, and I haven't stopped since.
  
-I design and build full-stack web apps — from pixel-perfect UIs to solid backends.
+Right now I'm building **[Planner AI](https://github.com/thisisal1yev/Planner-AI)** — an AI-powered productivity tool — backed by **Microsoft for Startups** and deployed on Azure.
  
-My frontend stack is **Vue (React)**, **Nuxt (Next)**, and **TypeScript**. On the backend I work with **Node.js**, **Express**, and **NestJS**. I like when both sides of the app feel clean and intentional.
+I'm open to **remote opportunities**.
  
-I've got a few pinned projects — check them out if you're curious what I've been up to.
+---
+ 
+## What I work with
+ 
+**Frontend**
+Vue · Nuxt · React · Next.js · TypeScript · Tailwind CSS
+ 
+**Backend**
+Node.js · NestJS · Express · REST · PostgreSQL · Supabase/Firebase
+ 
+**Infrastructure & Tools**
+Docker · Git · Figma
